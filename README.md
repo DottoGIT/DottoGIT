@@ -20,20 +20,37 @@ As an IT student, I engage in various group and individual projects each semeste
 | [BoardgameAssistant](https://github.com/DottoGIT/BoardgameAssistant)         | Embedded Python  | 12.2022 |
 
 ## Games I've Created
-One of my main hobbies is developing games from scratch. While many projects have remained unfinished and the code quality may not always be top-notch, these projects represent a significant part of my life that I enjoy sharing.
+One of my main hobbies is developing games from scratch. While many projects have remained unfinished and the code quality may not always be top-notch, these projects represent a significant part of my life that I enjoy sharing. Projects are listed from the most recent to the oldest, everyone of them was created in Unity using **C#** language
 
-| Project Name                                                                                              | Language |
-|-----------------------------------------------------------------------------------------------------------|----------|
-| [DeadlyProhibition ⭐](https://github.com/DottoGIT/DeadlyProhibition)                                    | C#       |
-| [FriendsBeyondTheEnd ⭐](https://github.com/DottoGIT/FriendsBeyondTheEnd)                              | C#       |
-| [DungeonGenerator](https://github.com/DottoGIT/DungeonGenerator)                                        | C#       |
-| [DadImScared](https://github.com/DottoGIT/DadImScared)                                                  | C#       |
-| [FussyJohn](https://github.com/DottoGIT/FussyJohn)                                                      | C#       |
-| [GameOfDots](https://github.com/DottoGIT/GameOfDots)                                                    | C#       |
-| [GlowingPong](https://github.com/DottoGIT/GlowingPong)                                                  | C#       |
-| [Till15HellRide](https://github.com/DottoGIT/Till15HellRide)                                            | C#       |
-| [EndlessRunner](https://github.com/DottoGIT/EndlessRunner)                                              | C#       |
-| [DrawingPlatformer](https://github.com/DottoGIT/DrawingPlatformer)                                      | C#       |
-| [WarehouseTycon](https://github.com/DottoGIT/WarehouseTycon)                                            | C#       |
-| [JetGame](https://github.com/DottoGIT/JetGame)                                                          | C#       |
-| [ArtykulZostalZabranyZeStrefyPakowania](https://github.com/DottoGIT/ArtykulZostalZabranyZeStrefyPakowania) | C#       |
+| Project Name                                                                                              |
+|-----------------------------------------------------------------------------------------------------------|
+| [ArtykulZostalZabranyZeStrefyPakowania ⭐](https://github.com/DottoGIT/ArtykulZostalZabranyZeStrefyPakowania) |
+| [DungeonGenerator](https://github.com/DottoGIT/DungeonGenerator)                                        |
+| [DeadlyProhibition ⭐](https://github.com/DottoGIT/DeadlyProhibition)                                    |
+| [WarehouseTycon](https://github.com/DottoGIT/WarehouseTycon)                                            |
+| [FriendsBeyondTheEnd ⭐](https://github.com/DottoGIT/FriendsBeyondTheEnd)                              |
+| [DadImScared](https://github.com/DottoGIT/DadImScared)                                                  |
+| [GameOfDots](https://github.com/DottoGIT/GameOfDots)                                                    |
+| [GlowingPong](https://github.com/DottoGIT/GlowingPong)                                                  |
+| [EndlessRunner](https://github.com/DottoGIT/EndlessRunner)                                              |
+| [DrawingPlatformer](https://github.com/DottoGIT/DrawingPlatformer)                                      |
+| [JetGame](https://github.com/DottoGIT/JetGame)                                                          |
+| [FussyJohn](https://github.com/DottoGIT/FussyJohn)                                                      |
+| [Till15HellRide](https://github.com/DottoGIT/Till15HellRide)                                            |
+
+## Android tools
+Most of my Android tools were unfortunately lost, and I only managed to restore a small portion of them.
+
+| Project Name                                                                 | Language |
+|------------------------------------------------------------------------------|------------------|
+| [EwidencjaCzasuPracy](https://github.com/DottoGIT/EwidencjaCzasuPracy)                   | Kotlin     |
+| [Alcolator](https://github.com/DottoGIT/Alcolator)                   | Java     |
+
+## Others
+Some projects I created either out of boredom or as part of high school assignments.
+
+| Project Name                                                                 | Language |
+|------------------------------------------------------------------------------|------------------|
+| [SMS_backup_to_text](https://github.com/DottoGIT/SMS_backup_to_text)                   | Python     |
+| [JS_Tetris](https://github.com/DottoGIT/JS_Tetris)                   | JavaScript     |
+| [JS_Snake](https://github.com/DottoGIT/JS_Snake)                   | JavaScript     |
