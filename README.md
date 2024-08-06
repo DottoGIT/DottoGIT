@@ -2,8 +2,8 @@
 `Junior Software Developer`  
 I'm a student at [Warsaw University of Technology](https://eng.pw.edu.pl/), with a passion for developing projects and expanding my skill set. I've worked on various projects, some of which are showcased below. I'm currently seeking job opportunities where I can grow and contribute. I'm a fast learner, highly motivated, and eager to build my career within a dynamic company.
 <div style="float: right; width: 100px; height: 100px; border: 1px solid;">
-  <img src="images/linkedin.png" width="40px" alt="LinkedIn">
-  <img src="images/itchio.png" width="40px" alt="Itch.io">
+  <a href="https://www.linkedin.com/in/maciej-scheffer-936386320/"><img src="images/linkedin.png" width="40px" alt="LinkedIn"></a>
+  <a href="https://itch.io/profile/dotto4213"><img src="images/itchio.png" width="40px" alt="Itch.io"></a>
 </div>
 
 ## College Projects
