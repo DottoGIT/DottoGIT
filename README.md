@@ -1,6 +1,6 @@
 # Maciej Scheffer
 `Juniot Software Developer`  
-I'm a student at Politechnika Warszawska, with a passion for developing projects and expanding my skill set. I've worked on various projects, some of which are showcased below. I'm currently seeking job opportunities where I can grow and contribute. I'm a fast learner, highly motivated, and eager to build my career within a dynamic company.
+I'm a student at [Warsaw University of Technology](https://eng.pw.edu.pl/), with a passion for developing projects and expanding my skill set. I've worked on various projects, some of which are showcased below. I'm currently seeking job opportunities where I can grow and contribute. I'm a fast learner, highly motivated, and eager to build my career within a dynamic company.
 <div style="float: right; width: 100px; height: 100px; border: 1px solid;">
   <img src="images/linkedin.png" width="40px" alt="LinkedIn">
   <img src="images/itchio.png" width="40px" alt="Itch.io">
@@ -47,7 +47,7 @@ Most of my Android tools were unfortunately lost, and I only managed to restore 
 | [Alcolator](https://github.com/DottoGIT/Alcolator)                   | Java     |
 
 ## Others
-Some projects I created either out of boredom or as part of high school assignments.
+Projects I created in my free time that I particularly enjoy.
 
 | Project Name                                                                 | Language |
 |------------------------------------------------------------------------------|------------------|
