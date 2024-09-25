@@ -51,7 +51,7 @@ Projects I created in my free time that I particularly enjoy.
 
 | Project Name                                                                 | Language |
 |------------------------------------------------------------------------------|------------------|
-| [Juce_MIDI_Plugin](https://github.com/DottoGIT/Juce_MIDI_Plugin)             | C++ |
+| [Juce_MIDI_Plugin ⭐](https://github.com/DottoGIT/Juce_MIDI_Plugin)             | C++ |
 | [SMS_backup_to_text](https://github.com/DottoGIT/SMS_backup_to_text)                   | Python     |
 | [JS_Tetris](https://github.com/DottoGIT/JS_Tetris)                   | JavaScript     |
 | [JS_Snake](https://github.com/DottoGIT/JS_Snake)                   | JavaScript     |
