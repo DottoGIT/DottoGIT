@@ -11,6 +11,9 @@ As an IT student, I engage in various group and individual projects each semeste
 
 | Project Name                                                                 | Language        | Date    |
 |------------------------------------------------------------------------------|------------------|---------|
+| [Heroes AI ⭐](https://github.com/DottoGIT/Heroes_AI)                   | C++, SDL     | 12.2024 |
+| [Sensor ⭐](https://github.com/PZSP24Z11/sensor)                   | C, Django     | 01.2024 |
+| [MVC_Library ⭐](https://github.com/DottoGIT/MVC_Library)                   | C#, ASP.NET     | 11.2024 |
 | [TrainManager ⭐](https://github.com/DottoGIT/TrainManager)                   | React + Java     | 06.2024 |
 | [RPMCounter](https://github.com/DottoGIT/RPMCounter)                         | Embedded C       | 05.2024 |
 | [DajLabki](https://github.com/DottoGIT/DajLabki)                             | React + Java     | 01.2024 |
