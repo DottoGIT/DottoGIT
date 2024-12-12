@@ -27,7 +27,7 @@ One of my main hobbies is developing games from scratch. While many projects hav
 
 | Project Name                                                                                              |
 |-----------------------------------------------------------------------------------------------------------|
-| [BeyondSpeech ⭐](https://github.com/DottoGIT/BeyondSpeech)) |
+| [BeyondSpeech ⭐](https://github.com/DottoGIT/BeyondSpeech) |
 | [ArtykulZostalZabranyZeStrefyPakowania ⭐](https://github.com/DottoGIT/ArtykulZostalZabranyZeStrefyPakowania) |
 | [DungeonGenerator](https://github.com/DottoGIT/DungeonGenerator)                                        |
 | [DeadlyProhibition ⭐](https://github.com/DottoGIT/DeadlyProhibition)                                    |
