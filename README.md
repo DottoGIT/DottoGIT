@@ -1,13 +1,12 @@
 # Maciej Scheffer
 `Junior Software Developer` <br><br>
-I'm a student at [Warsaw University of Technology](https://eng.pw.edu.pl/), with a passion for developing projects and expanding my skill set. I've worked on various projects, some of which are showcased below. I'm currently seeking job opportunity where I can grow and contribute. I'm a fast learner, highly motivated, and eager to build my career within a dynamic company.
+Student at [Warsaw University of Technology](https://eng.pw.edu.pl/). Worked on various projects, some of which are showcased below. Currently seeking internship opportunity.
 <div style="float: right; width: 100px; height: 100px; border: 1px solid;">
   <a href="https://www.linkedin.com/in/maciej-scheffer-936386320/"><img src="images/linkedin.png" width="40px" alt="LinkedIn"></a>
   <a href="https://itch.io/profile/dotto4213"><img src="images/itchio.png" width="40px" alt="Itch.io"></a>
 </div>
 
 ## College Projects
-As an IT student, I engage in various group and individual projects each semester, ranging in complexity. My favorite projects include:
 
 | Project Name                                                                 | Language        | Date    |
 |------------------------------------------------------------------------------|------------------|---------|
@@ -22,8 +21,7 @@ As an IT student, I engage in various group and individual projects each semeste
 | [PW_Szachy ⭐](https://github.com/DottoGIT/PW_szachy)                         | Python           | 01.2023 |
 | [BoardgameAssistant](https://github.com/DottoGIT/BoardgameAssistant)         | Embedded Python  | 12.2022 |
 
-## Games I've Created
-One of my main hobbies is developing games from scratch. While many projects have remained unfinished and the code quality may not always be top-notch, these projects represent a significant part of my life that I enjoy sharing. Projects are listed from the most recent to the oldest, everyone of them was created in Unity using **C#** language
+## Hobby Games Projects
 
 | Project Name                                                                                              |
 |-----------------------------------------------------------------------------------------------------------|
@@ -43,7 +41,6 @@ One of my main hobbies is developing games from scratch. While many projects hav
 | [Till15HellRide](https://github.com/DottoGIT/Till15HellRide)                                            |
 
 ## Android tools
-Most of my Android tools were unfortunately lost, and I only managed to restore a small portion of them.
 
 | Project Name                                                                 | Language |
 |------------------------------------------------------------------------------|------------------|
@@ -51,7 +48,6 @@ Most of my Android tools were unfortunately lost, and I only managed to restore 
 | [Alcolator](https://github.com/DottoGIT/Alcolator)                   | Java     |
 
 ## Others
-Projects I created in my free time that I particularly enjoy.
 
 | Project Name                                                                 | Language |
 |------------------------------------------------------------------------------|------------------|
