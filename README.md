@@ -1,5 +1,5 @@
 # Maciej Scheffer
-`Junior Software Developer` <br><br>
+`Student Software Developer` <br><br>
 Student at [Warsaw University of Technology](https://eng.pw.edu.pl/). Worked on various projects, some of which are showcased below. Currently seeking internship opportunity.
 <div style="float: right; width: 100px; height: 100px; border: 1px solid;">
   <a href="https://www.linkedin.com/in/maciej-scheffer-936386320/"><img src="images/linkedin.png" width="40px" alt="LinkedIn"></a>
