@@ -17,7 +17,7 @@ Student at [Warsaw University of Technology](https://eng.pw.edu.pl/). Worked on 
 | [TrainManager ⭐](https://github.com/DottoGIT/TrainManager)                   | React + Java     | 06.2024 |
 | [RPMCounter](https://github.com/DottoGIT/RPMCounter)                         | Embedded C       | 05.2024 |
 | [DajLabki](https://github.com/DottoGIT/DajLabki)                             | React + Java     | 01.2024 |
-| [ShopSimulation ⭐](https://github.com/DottoGIT/ShopSimulation)               | C++              | 06.2023 |
+| [ShopSimulation ](https://github.com/DottoGIT/ShopSimulation)               | C++              | 06.2023 |
 | [BigNumberDivision](https://github.com/DottoGIT/BigNumberDivision) | Assembly         | 05.2023 |
 | [PW_Szachy ⭐](https://github.com/DottoGIT/PW_szachy)                         | Python           | 01.2023 |
 | [BoardgameAssistant](https://github.com/DottoGIT/BoardgameAssistant)         | Embedded Python  | 12.2022 |
