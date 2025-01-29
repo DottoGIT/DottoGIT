@@ -10,9 +10,9 @@ Student at [Warsaw University of Technology](https://eng.pw.edu.pl/). Worked on 
 
 | Project Name                                                                 | Language        | Date    |
 |------------------------------------------------------------------------------|------------------|---------|
+| [Heroes AI ⭐](https://github.com/DottoGIT/Heroes_AI)                   | C++, Boost, SDL     | 01.2025 |
 | [Distributed Server System](https://github.com/DottoGIT/DistributedServerSystem) | Python | 01.2025 |
 | [Sensor ⭐](https://github.com/PZSP24Z11/sensor)                   | Embedded C++, Django     | 01.2025 |
-| [Heroes AI ⭐](https://github.com/DottoGIT/Heroes_AI)                   | C++, SDL     | 12.2024 |
 | [MVC_Library ⭐](https://github.com/DottoGIT/MVC_Library)                   | C#, ASP.NET, React, Typescript     | 11.2024 |
 | [TrainManager ⭐](https://github.com/DottoGIT/TrainManager)                   | React + Java     | 06.2024 |
 | [RPMCounter](https://github.com/DottoGIT/RPMCounter)                         | Embedded C       | 05.2024 |
