@@ -10,6 +10,7 @@ Student at [Warsaw University of Technology](https://eng.pw.edu.pl/). Worked on 
 
 | Project Name                                                                 | Language        | Date    |
 |------------------------------------------------------------------------------|------------------|---------|
+| [Checkers AI]((https://github.com/DottoGIT/Haskell_Checkers))                   | Haskell     | 06.2025 |
 | [Heroes AI ⭐](https://github.com/DottoGIT/Heroes_AI)                   | C++, Boost, SDL     | 01.2025 |
 | [Distributed Server System](https://github.com/DottoGIT/DistributedServerSystem) | Python | 01.2025 |
 | [Sensor ⭐](https://github.com/PZSP24Z11/sensor)                   | Embedded C++, Django     | 01.2025 |
