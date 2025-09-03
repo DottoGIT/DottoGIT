@@ -14,7 +14,7 @@ Student at Warsaw University of Technology. Worked on various projects, some of 
 | [Custom Interpreter ⭐](https://github.com/DottoGIT/PolangInterpreter)                  | C++     | 05.2025 |
 | [Heroes AI ⭐](https://github.com/DottoGIT/Heroes_AI)                   | C++, Boost, SDL     | 01.2025 |
 | [Distributed Server System](https://github.com/DottoGIT/DistributedServerSystem) | Python | 01.2025 |
-| [Sensor ⭐](https://github.com/PZSP24Z11/sensor)                   | Embedded C++, Django     | 01.2025 |
+| [Sensor ⭐](https://github.com/PZSP24Z11/sensor)                   | Embedded C, Django     | 01.2025 |
 | [MVC_Library ⭐](https://github.com/DottoGIT/MVC_Library)                   | C#, ASP.NET, React, Typescript     | 12.2024 |
 | [TrainManager ⭐](https://github.com/DottoGIT/TrainManager)                   | React + Java     | 06.2024 |
 | [RPMCounter](https://github.com/DottoGIT/RPMCounter)                         | Embedded C       | 05.2024 |
